@@ -3,7 +3,6 @@ Vi har en kurv med 5 kuler, 3 røde og 2 blå.
 Vi skal simulere svarene
 """
 
-from itertools import count
 import numpy as np
 import pylab 
 
